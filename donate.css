@@ -1,0 +1,58 @@
+.post_reward {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(238, 238, 238);
+    border-bottom-width: 1px;
+}
+
+.post_reward .reward_btn {
+    font-weight: normal;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.5;
+    margin-top: 15px;
+    margin-right: 0px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    padding-top: 3px;
+    padding-right: 7px;
+    padding-bottom: 3px;
+    padding-left: 7px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(238, 238, 238);
+    -moz-border-colors: none;
+    border-image-source: none;
+    border-image-slice: 100%;
+    border-image-width: 1;
+    border-image-outset: 0;
+    border-image-repeat: stretch stretch;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.post_reward .qr_code {
+    margin-top: 15px;
+    display: none;
+    padding: 5px;
+}
+
+.post_reward .qr_code .qr_code_img {
+    display: inline-block;
+    height: auto;
+    width: 40%;
+    max-width: 300px;
+}
+
+.post_reward .powered_text {
+    font-size: 12px;
+    font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    font-weight: normal;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.5;
+    padding-bottom: 15px;
+    text-align: right;
+}
