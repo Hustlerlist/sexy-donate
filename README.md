@@ -63,6 +63,11 @@ Now go to your blog and see what happened! :smile:
 
 jquery 3.3.1
 
+# TO-DO
+
+- Use Javascript to render the HTML snippets for single-line usage.
+- Add wobble effect for the button.
+
 # License
 
 [MIT License](https://opensource.org/licenses/MIT)
