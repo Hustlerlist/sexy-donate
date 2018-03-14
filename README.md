@@ -31,7 +31,7 @@ These are the requirements of SexyDonate.
 ## 2. Render Sexy Donate Container
 ```html
 <div class="post_reward">
-    <label class="reward_btn">请喝咖啡</label>
+    <label class="reward_btn">$请喝咖啡$</label>
     <div class="qr_code">
         <div class="qr_code_img">
             <img class="image" src="$Path_To_Your_WechatDonationCode$" title="WeChat">
@@ -49,8 +49,14 @@ These are the requirements of SexyDonate.
 
 ```
 Put **ALL OF ABOVE** to the end of your post, above your comments area.
-As for me, it is in the file `post.ejs`.
-Customize according to your own hexo theme or static webpage.
+
+As for me, it is in the file `post.ejs`. Customize according to your own hexo theme or static webpage.
+
+Do change all content between the `$...$`, as in your own text shown in the button, your own WeChat Donation QR Code and your own AliPay QR Code.
+
+The QR Code image require a bit of tweaking, I suggest you upload your generated QR Code onto a Image Hosting Website. Then paste the URL into `src="$HERE$"`
+
+I do appreciate it if you would keep the `powered_text` `<div>`. Huge Thanks.
 
 ## 3. Finalize
 In your terminal, navigate to your root hexo blog folder, and run the following script:
@@ -61,12 +67,17 @@ Now go to your blog and see what happened! :smile:
 
 # Dependencies
 
-jquery 3.3.1
+- jquery 3.3.1
+
+- Button wobble effect by [Animista](http://animista.net/)
+
+![img](https://i.loli.net/2018/03/14/5aa8bc4b20774.jpg)
 
 # TO-DO
 
 - Use Javascript to render the HTML snippets for single-line usage.
-- Add wobble effect for the button.
+- ~~Add wobble effect for the button.~~
+- Add Chinese Version README
 
 # License
 
