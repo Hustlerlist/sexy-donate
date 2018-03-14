@@ -1,6 +1,6 @@
 # Sexy Donate
 
-![demo](https://i.loli.net/2018/03/13/5aa7e74b5578b.gif)
+![img](https://i.loli.net/2018/03/14/5aa8c027b2460.gif)
 
 An extremely lightweight donation system for static webpages.
 
