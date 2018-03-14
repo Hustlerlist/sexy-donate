@@ -1,8 +1,6 @@
 # Sexy Donate
 
-<div style="text-align:center">
-    <img src ="https://i.loli.net/2018/03/14/5aa8c027b2460.gif" />
-</div>
+![img](https://i.loli.net/2018/03/14/5aa8c027b2460.gif)
 
 An extremely lightweight donation system for static webpages.
 
