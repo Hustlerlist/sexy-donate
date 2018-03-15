@@ -2,6 +2,15 @@
 
 ![img](https://i.loli.net/2018/03/14/5aa8c027b2460.gif)
 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
+[![MD-zh](https://img.shields.io/badge/README-Chinese-ff69b4.svg)](https://github.com/spencerwoo98/sexy-donate/blob/master/README-zh.md)
+
+[![HitCount](http://hits.dwyl.io/spencerwoo98/sexy-donate.svg)](http://hits.dwyl.io/spencerwoo98/sexy-donate)
+
+![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg?style=flat-square)
+
+
 An extremely lightweight donation system for static webpages.
 
 So lightweight that it:
