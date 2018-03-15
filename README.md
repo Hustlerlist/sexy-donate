@@ -19,8 +19,6 @@ The snippet was intended for [hexo](https://hexo.io).
 
 Click here for a detailed -> [DEMO](https://spencerwoo.com).
 
----
-
 # Let's Get Started
 
 ## 1. Installation
@@ -72,7 +70,7 @@ Now go to your blog and see what happened! :smile:
 
 # Dependencies
 
-- jquery 3.3.1
+- jQuery 3.3.1
 
 - Button wobble effect by [Animista](http://animista.net/)
 
@@ -82,7 +80,7 @@ Now go to your blog and see what happened! :smile:
 
 - Use Javascript to render the HTML snippets for single-line usage.
 - ~~Add wobble effect for the button.~~
-- Add Chinese Version README
+- ~~Add Chinese Version README~~
 
 # License
 

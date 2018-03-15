@@ -19,8 +19,6 @@
 
 点击这里查看 -> [DEMO](https://spencerwoo.com).
 
----
-
 # 来，兄弟，上车吧
 
 ## 1. 安装
@@ -83,7 +81,7 @@ hexo clean && hexo d -g
 
 # 依托
 
-- jquery 3.3.1
+- jQuery 3.3.1
 
 - Button wobble effect by [Animista](http://animista.net/)
 
@@ -93,7 +91,7 @@ hexo clean && hexo d -g
 
 - Use Javascript to render the HTML snippets for single-line usage.
 - ~~Add wobble effect for the button.~~
-- ~~~Add Chinese Version README~~~
+- ~~Add Chinese Version README~~
 
 # 许可
 
