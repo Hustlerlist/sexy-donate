@@ -1,11 +1,13 @@
-# Sexy Donate 阳阳打赏
+# Sexy Donate 一款专注博客的打赏代码块
 
 [![HexoOptimized](https://img.shields.io/badge/HEXO-Optimized-orange.svg)](https://hexo.io)
 [![README](https://img.shields.io/badge/README-Chinese-blue.svg)](https://github.com/spencerwoo98/sexy-donate/blob/master/README-zh.md)
 ![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg?style=flat)
 [![HitCount](http://hits.dwyl.io/spencerwoo98/sexy-donate.svg)](http://hits.dwyl.io/spencerwoo98/sexy-donate)
 
-![img](https://i.loli.net/2018/03/14/5aa8c027b2460.gif)
+<div align="center">
+    <img src="https://i.loli.net/2018/03/14/5aa8c027b2460.gif" alt="demo_gif"/>
+</div>
 
 一款极为简单轻便的打赏系统，专为静态网页准备。
 

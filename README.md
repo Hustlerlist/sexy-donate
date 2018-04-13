@@ -5,7 +5,9 @@
 ![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg?style=flat)
 [![HitCount](http://hits.dwyl.io/spencerwoo98/sexy-donate.svg)](http://hits.dwyl.io/spencerwoo98/sexy-donate)
 
-![img](https://i.loli.net/2018/03/14/5aa8c027b2460.gif)
+<div align="center">
+	<img src="https://i.loli.net/2018/03/14/5aa8c027b2460.gif" alt="demo_gif"/>
+</div>
 
 An extremely lightweight donation system for static webpages.
 
